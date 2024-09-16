@@ -112,7 +112,7 @@ We love your contributions and appreciate any improvements you bring to the proj
 5. Submit a pull request for review.
 
 ## 📄 License
-This project is licensed under the MIT License - [LICENSE()]see the  file for details.
+This project is licensed under the MIT License - [LICENSE](LICENSE) see the  file for details.
 
 ## 🌟 Acknowledgments
 A big thank you to all contributors who are helping make Nuttfy a reality. Let's create something amazing together! 🙌
